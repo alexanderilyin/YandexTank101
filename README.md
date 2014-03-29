@@ -1,6 +1,8 @@
 YandexTank101
 =============
 
+Development environments based on Ubuntu Server 13.10 managed by Vagrant & Puppet for Yandex.Tank research.
+
 INSPIRED BY
 -----------
 
@@ -21,6 +23,6 @@ INSTALLATION
 4. `vagrant up`.
 5. `vagrant ssh yandex`.
 6. `cd /vagrant`.
-7. `./yandex-tank`.
+7. `yandex-tank`.
 
 Monitoring will be available at http://172.16.0.10:8080/.
