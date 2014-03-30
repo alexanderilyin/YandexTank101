@@ -27,6 +27,6 @@ INSTALLATION
 
 Monitoring will be available at http://172.16.0.10:8080/.
 
-_— PEW PEW MOTHERF*CKER!_
-
 ![Battle City Yellow Tank](https://raw.githubusercontent.com/alexanderilyin/YandexTank101/master/images/tank_yellow.png)
+
+_— PEW PEW MOTHERF*CKER!_
