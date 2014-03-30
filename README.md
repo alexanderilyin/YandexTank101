@@ -6,8 +6,8 @@ Development environments based on [Ubuntu Server 13.10](http://releases.ubuntu.c
 ROADMAP
 -------
 
-- [ ] Add Wordpress for HTTP stateless tests;
-- [ ] Add Memcache load test example;
+1. Add Wordpress for HTTP stateless tests;
+2. Add Memcache load test example;
  
 
 INSPIRED BY
