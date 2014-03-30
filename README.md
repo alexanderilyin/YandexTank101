@@ -26,3 +26,7 @@ INSTALLATION
 7. `yandex-tank`.
 
 Monitoring will be available at http://172.16.0.10:8080/.
+
+— PEW PEW MOTHERF*CKER!
+
+![Battle City Yellow Tank](https://raw.githubusercontent.com/alexanderilyin/YandexTank101/master/images/tank_yellow.png) ![Battle City Green Tank](https://raw.githubusercontent.com/alexanderilyin/YandexTank101/master/images/tank_green.png)
