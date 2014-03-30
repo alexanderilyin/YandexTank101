@@ -18,8 +18,8 @@ INSPIRED BY
 REQUIREMENTS
 ------------
 
-1. [VirtualBox](https://www.virtualbox.org).
-2. [Vagrant](http://www.vagrantup.com).
+1. [VirtualBox](https://www.virtualbox.org)
+2. [Vagrant](http://www.vagrantup.com)
 
 INSTALLATION
 ------------
