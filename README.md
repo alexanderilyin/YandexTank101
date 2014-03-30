@@ -20,6 +20,7 @@ REQUIREMENTS
 
 1. [VirtualBox](https://www.virtualbox.org)
 2. [Vagrant](http://www.vagrantup.com)
+3. [Cucumber](http://cukes.info) _— for functional tests._
 
 INSTALLATION
 ------------
