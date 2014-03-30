@@ -8,12 +8,11 @@ ROADMAP
 
 - [ ] Add Wordpress for HTTP stateless tests;
 - [ ] Add Memcache load test example;
- 
 
 INSPIRED BY
 -----------
 
-![RAZOR 1911](http://upload.wikimedia.org/wikipedia/ru/5/50/RAZOR_NFO.png)
+![RAZOR 1911](https://raw.githubusercontent.com/alexanderilyin/YandexTank101/master/images/razor1911.png)
 
 REQUIREMENTS
 ------------
