@@ -26,7 +26,7 @@ INSTALLATION
 
 Follow simple steps to get two VMs with Yandex.Tank on 1st and web services on 2nd.
 
-```
+```bash
 git clone git@github.com:alexanderilyin/YandexTank101.git
 cd YandexTank101
 git submodule init
