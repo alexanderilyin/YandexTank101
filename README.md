@@ -42,7 +42,7 @@ ENVIRONMENT
 
 1. `172.16.0.10` — IP for VM with Yandex.Tank.
 2. `172.16.0.20` — IP for VM with web services.
-3. Monitoring will be available at http://172.16.0.10:8080/.
+3. `http://172.16.0.10:8080/` — Monitoring GUI. 
 
 ![Battle City Yellow Tank](https://raw.githubusercontent.com/alexanderilyin/YandexTank101/master/images/tank_yellow.png)
 
